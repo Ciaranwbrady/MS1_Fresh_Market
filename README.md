@@ -53,9 +53,13 @@ Based on the user stories two personas were developed. Personas will give a face
 
 ### Anna
 
+![Persona](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/personas/Anna%20-%20Persona%201%20%E2%80%93%201.png?raw=true)
 ## Persona 2
 
 ### Carl
+
+![Persona](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/personas/Carl%20-%20Persona%201.png?raw=true)
+
 
 # UX
 
@@ -93,6 +97,8 @@ Using Lean UX a minimum viable product (MVP) was developed in order to learn qui
 
 
 ## Structure
+
+
 
 ## Skeleton
 
