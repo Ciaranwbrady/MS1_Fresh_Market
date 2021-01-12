@@ -98,7 +98,7 @@ Using Lean UX a minimum viable product (MVP) was developed in order to learn qui
 
 ## Structure
 
-The website will operate as a scrolling one page site on desktop, with the navigation changing to a hamburger menu on mobile. The website will be broken into four sections that will help first time, frequent and returning users get answers to their questions.
+The website will operate as a scrolling one page site on desktop, with the navigation changing to a hamburger menu on mobile. The website will be broken into four sections that will help first time, frequent and returning users get answers to their questions. The navigation will be sticky and be viewable at each section of the site.
 
 - About Us section
     - This section will clearly outline what the Fresh Market is, what services does the business offer and why you might choose the Fresh Market over other stores.
@@ -112,11 +112,25 @@ The website will operate as a scrolling one page site on desktop, with the navig
 - Contact Us section
     - This section will help the user send a quick question or query to the business without leaving the site. This will present a good opportunity for the user to feel the have a direct line of communication with the business.
 
+#### Information Architecture for the site
+
 ![Sitemap](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/Information%20Arch..png?raw=true)
 
 ## Skeleton
 
-Link to wireframes
+The wireframes were designed and built in [Balsamiq](https://balsamiq.com/) . They can be viewed at the following links
+
+- [Desktop](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/wireframes/Desktop/Desktop%20.pdf)
+
+- [Tablet](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/wireframes/iPad/iPad%20Layout.pdf)
+
+- [Mobile](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/wireframes/mobile/Mobile%20Design.pdf)
+
+All devices side by side 
+
+- [Wireframes](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/wireframes/Wireframes%20for%20all%20devices.pdf)
+
+
 
 ## Surface
 
