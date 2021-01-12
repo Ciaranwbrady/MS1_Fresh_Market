@@ -80,3 +80,13 @@ Meeting the user’s needs and goals
 
 Following current industry best practices the site will be a one page scrolling site on desktop, with the navigation bar collapsing into a hamburger menu with a pop up modal on mobile and tablet. 
 
+## Scope
+
+Using Lean UX a minimum viable product (MVP) was developed in order to learn quickly about what will work on the site. Developing the site in this way will allow time for testing and give ample opportunity to fix any bugs or features that may not be working. Using a Lean UX methodology will enable us to see if we 
+
+- Can clearly communicate what the business is about and what services we offer to the local community. 
+- Provide a way for users to connect or contact the business.
+- Give returning user’s the chance to learn more about what is on special this week.
+- Help new user’s locate us so they can visit us in the store
+- Provide an overall positive experience across all devices that a new user may use. 
+- That the site is built using correct HTML semantics and follows industry standards for accessibility. 
