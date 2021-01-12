@@ -27,8 +27,6 @@ The aim of this project is to create a fully responsive and aesthetically pleasi
 - As a first time user, I want to be able to check the site on mobile as well as desktop. 
 
 
-
-
 ## Returning user of the site’s goals
 
 - As a returning user, I want to learn more about the specials on offer that week.
@@ -37,6 +35,7 @@ The aim of this project is to create a fully responsive and aesthetically pleasi
 
 - As a returning user, I would like to be able to find a phone number to call the shop to ask them to hold something for me. 
 
+
 ## A frequent user of the site’s goals
 
 - As a frequent user, I want to be able to sign up to the mailing list.
@@ -44,4 +43,40 @@ The aim of this project is to create a fully responsive and aesthetically pleasi
 - As a frequent user, I want to be able to find quick links to the company's social media pages. 
 
 - As a frequent user, I want to be able to check the latest information about the shop and Covid
+
+
+# Personas
+
+Based on the user stories two personas were developed. Personas will give a face and personality to help in the design process. They are useful to refer back to keep a potential user front and centre in all development decisions.
+
+## Persona 1
+
+### Anna
+
+## Persona 2
+
+### Carl
+
+# UX
+
+## Strategy 
+
+
+The aim of this project is to raise awareness of the stakeholders business with a fully responsive and visually appealing site. The site should be easy to use and build on existing mental models of mobile first design. The business will have a wide demographic so the key information should be easy to find and accessibility will be very important. 
+
+The primary objectives of the site would be 
+
+- Give users the chance to learn more about the business
+- Show customers what is unique about The Fresh Market through text and visuals. 
+- Be able to communicate what services the business offers in changing covid 19 requirements.
+
+Meeting the user’s needs and goals
+
+- The site should be fully responsive and have the same effectiveness on mobile and desktop.
+- Imagery and icons used with short bursts of text. This will inform the user but not overwhelm and can give them the chance to learn more if they so wish.
+- A single page scrolling site that will guide the user to the relevant section without confusing them by moving away from the core home page. 
+- Fixed header to aid with the user’s navigation on the site for ease of use. 
+- Clear indicators of social media links, contact number and google map locations if the user wishes to find the stakeholder or find out more about the business.
+
+Following current industry best practices the site will be a one page scrolling site on desktop, with the navigation bar collapsing into a hamburger menu with a pop up modal on mobile and tablet. 
 
