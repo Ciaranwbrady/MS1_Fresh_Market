@@ -187,6 +187,8 @@ Accessibility is of fundamental consideration when designing a site. It is impor
 - Unsplash
 - Noun Project 
 - Google Fonts
+- Adobe colours
+- Typewolf 
 
 ### Workspace, Repositories and Version Control
 
