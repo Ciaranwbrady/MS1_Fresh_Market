@@ -98,7 +98,7 @@ Using Lean UX a minimum viable product (MVP) was developed in order to learn qui
 
 ## Structure
 
-
+![Sitemap](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/Information%20Arch..png?raw=true)
 
 ## Skeleton
 
