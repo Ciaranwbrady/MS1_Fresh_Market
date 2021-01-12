@@ -98,6 +98,20 @@ Using Lean UX a minimum viable product (MVP) was developed in order to learn qui
 
 ## Structure
 
+The website will operate as a scrolling one page site on desktop, with the navigation changing to a hamburger menu on mobile. The website will be broken into four sections that will help first time, frequent and returning users get answers to their questions.
+
+- About Us section
+    - This section will clearly outline what the Fresh Market is, what services does the business offer and why you might choose the Fresh Market over other stores.
+
+- Products section
+    - This will provide some imagery to the user that will give them a further idea of the types of products the Fresh Market stops. It will present an opportunity to showcase some new items or existing favorites on special.
+
+- Location section
+    - This will provide the user with all of the information to help locate and visit the store. There will be a map link to google maps as well as the address and contact number.
+
+- Contact Us section
+    - This section will help the user send a quick question or query to the business without leaving the site. This will present a good opportunity for the user to feel the have a direct line of communication with the business.
+
 ![Sitemap](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/Information%20Arch..png?raw=true)
 
 ## Skeleton
