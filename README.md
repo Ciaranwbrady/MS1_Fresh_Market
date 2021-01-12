@@ -133,7 +133,26 @@ All devices side by side
 
 
 ## Surface
+### Colour
+As the website is for a local and healty grocery store the colours and style should reflect that in the design. In order to get an idea of some colours I took a look at some photos from the businesses instagram.
 
+![Colour_1](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/Screenshot%202021-01-08%20at%2019.34.34.png?raw=true)
+
+From this photo the green and light colours appealed to me and and I added them to the potential colours I may use. The brown felt too dark so I did a bit more research for a more suitable colour to go with the greens.
+
+![Colour_2](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/Screenshot%202021-01-08%20at%2019.34.51.png?raw=true)
+
+The lighter tones and colours that came from this photo provided further colour inspiration. I paired the pink and light colour with the greens from the first photo.
+
+Accessibility is of fundamental consideration when designing a site. It is important that the colours used meet WCAG and accesibility guidelines. I had to refine my final colour selection so they would be accesible to colour blind users. The final selection for use on the site are displayed in the photo below.
+
+![Colour_Used](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/accesiblecolor.png?raw=true)
+
+### Typography
+
+- For the headings on the site I have chosen [Raleway by Google Fonts](https://fonts.google.com/specimen/Raleway). I decided to use this font as a wide demographic would be using this site. Raleway is clear and fits well with the brand aesthetic. It also is likely that a user may not have trouble with this font as most devices will support google fonts.
+
+- For the body text on the site I used [Roboto by Christian Robertson](https://fonts.google.com/specimen/Roboto). Roboto is described as a font that allows for a more natural reading rhythm, which is will help the user navigate the content. Roboto is seen very often on websites and this in term will aid the user by building on existing mental models.
 
 # Features 
 
