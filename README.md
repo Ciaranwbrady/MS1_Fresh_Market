@@ -160,18 +160,46 @@ Accessibility is of fundamental consideration when designing a site. It is impor
 
 ## Features 
 
-### Existing Features 
+### Existing Features
+- Website designed with HTML5, CSS3 and Bootstrap.
+- A modern single page site that scrolls to each section.
+- A fixed navigation bar that will keep the user informed where they are on the page and will also user hover fuctions to prompts possible page destination.
+- Fully responsive one page site that will adapt for desktop, tablet and mobile view. This will not comprimise the user experience as each layout is designed with screen size in mind.
+- Contact form for quick communication with the business.
+- Quick links in the footer to all available social media for the Fresh Market
+- Additonal opportunity to join mailing list in the footer which will improve the Fresh Markets reach with new and existing customers.
 
 ### Future Features 
+- Gallery that displays and updates when The Fresh Market post on instagram.
+- Testimonals or customer reviews. Possibly display the google reviews and updates as more become available.
 
-# Technologies used
+## Technologies used
 
-# Resources 
+### Languages - ADD LOGOS FOR THIS AND LINKS
+- HTML
+- CSS
 
-# Testing 
+### Frameworks, Libraries, Programs and Sites.
+- Bootstrap
+- Balsamiq
+- Adobe XD
+- Adobe Illustrator 
+- Unsplash
+- Noun Project 
+- Google Fonts
 
-# Deployment 
+### Workspace, Repositories and Version Control
 
-# Credits 
+- Gitpod
+- Github
 
-# Support 
+
+## Resources
+
+## Testing 
+
+## Deployment 
+
+## Credits 
+
+## Support 
