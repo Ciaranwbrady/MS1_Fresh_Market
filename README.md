@@ -90,3 +90,30 @@ Using Lean UX a minimum viable product (MVP) was developed in order to learn qui
 - Help new user’s locate us so they can visit us in the store
 - Provide an overall positive experience across all devices that a new user may use. 
 - That the site is built using correct HTML semantics and follows industry standards for accessibility. 
+
+
+## Structure
+
+## Skeleton
+
+Link to wireframes
+
+## Surface
+
+
+# Features 
+
+## Existing Features 
+## Future Features 
+
+# Technologies used
+
+# Resources 
+
+# Testing 
+
+# Deployment 
+
+# Credits 
+
+# Support 
