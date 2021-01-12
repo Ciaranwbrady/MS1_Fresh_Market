@@ -10,9 +10,9 @@ This website was designed and created to fulfill the requirements of the Milesto
 
 The aim of this project is to create a fully responsive and aesthetically pleasing mobile first design for a local grocery store that was not prepared for Covid-19 with their online presence. Having an Instagram is not enough for a local business that wants to grow. A well designed site would help ‘The Fresh Market’ reach a wider audience and give them a chance to find more business online. The site should provide information and answers to potential new customers and existing ones. Give people the opportunity to know more about what they do and why they should support them. Another key feature would be  a space that would advertise some of the specials of the week and a section eventually for online ordering. Lastly, the user could find ways to contact and follow The Fresh Market.
 
-# User Stories
+## User Stories
 
-## First time user of the site goals
+### First time user of the site goals
 
 - As a first time user, I want to learn a bit more about the business and what they do?
 
@@ -27,7 +27,7 @@ The aim of this project is to create a fully responsive and aesthetically pleasi
 - As a first time user, I want to be able to check the site on mobile as well as desktop. 
 
 
-## Returning user of the site’s goals
+### Returning user of the site’s goals
 
 - As a returning user, I want to learn more about the specials on offer that week.
 
@@ -36,7 +36,7 @@ The aim of this project is to create a fully responsive and aesthetically pleasi
 - As a returning user, I would like to be able to find a phone number to call the shop to ask them to hold something for me. 
 
 
-## A frequent user of the site’s goals
+### A frequent user of the site’s goals
 
 - As a frequent user, I want to be able to sign up to the mailing list.
 
@@ -45,25 +45,26 @@ The aim of this project is to create a fully responsive and aesthetically pleasi
 - As a frequent user, I want to be able to check the latest information about the shop and Covid
 
 
-# Personas
+## Personas
 
 Based on the user stories two personas were developed. Personas will give a face and personality to help in the design process. They are useful to refer back to keep a potential user front and centre in all development decisions.
 
-## Persona 1
+### Persona 1
 
-### Anna
+#### Anna
 
 ![Persona](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/personas/Anna%20-%20Persona%201%20%E2%80%93%201.png?raw=true)
-## Persona 2
 
-### Carl
+### Persona 2
+
+#### Carl
 
 ![Persona](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/personas/Carl%20-%20Persona%201.png?raw=true)
 
 
-# UX
+## UX
 
-## Strategy 
+### Strategy 
 
 
 The aim of this project is to raise awareness of the stakeholders business with a fully responsive and visually appealing site. The site should be easy to use and build on existing mental models of mobile first design. The business will have a wide demographic so the key information should be easy to find and accessibility will be very important. 
@@ -84,7 +85,7 @@ Meeting the user’s needs and goals
 
 Following current industry best practices the site will be a one page scrolling site on desktop, with the navigation bar collapsing into a hamburger menu with a pop up modal on mobile and tablet. 
 
-## Scope
+### Scope
 
 Using Lean UX a minimum viable product (MVP) was developed in order to learn quickly about what will work on the site. Developing the site in this way will allow time for testing and give ample opportunity to fix any bugs or features that may not be working. Using a Lean UX methodology will enable us to see if we 
 
@@ -96,7 +97,7 @@ Using Lean UX a minimum viable product (MVP) was developed in order to learn qui
 - That the site is built using correct HTML semantics and follows industry standards for accessibility. 
 
 
-## Structure
+### Structure
 
 The website will operate as a scrolling one page site on desktop, with the navigation changing to a hamburger menu on mobile. The website will be broken into four sections that will help first time, frequent and returning users get answers to their questions. The navigation will be sticky and be viewable at each section of the site.
 
@@ -116,7 +117,7 @@ The website will operate as a scrolling one page site on desktop, with the navig
 
 ![Sitemap](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/Information%20Arch..png?raw=true)
 
-## Skeleton
+### Skeleton
 
 The wireframes were designed and built in [Balsamiq](https://balsamiq.com/) . They can be viewed at the following links
 
@@ -132,8 +133,10 @@ All devices side by side
 
 
 
-## Surface
-### Colour
+### Surface
+
+#### Colour
+
 As the website is for a local and healty grocery store the colours and style should reflect that in the design. In order to get an idea of some colours I took a look at some photos from the businesses instagram.
 
 ![Colour_1](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/Screenshot%202021-01-08%20at%2019.34.34.png?raw=true)
@@ -148,16 +151,18 @@ Accessibility is of fundamental consideration when designing a site. It is impor
 
 ![Colour_Used](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/accesiblecolor.png?raw=true)
 
-### Typography
+#### Typography
 
 - For the headings on the site I have chosen [Raleway by Google Fonts](https://fonts.google.com/specimen/Raleway). I decided to use this font as a wide demographic would be using this site. Raleway is clear and fits well with the brand aesthetic. It also is likely that a user may not have trouble with this font as most devices will support google fonts.
 
 - For the body text on the site I used [Roboto by Christian Robertson](https://fonts.google.com/specimen/Roboto). Roboto is described as a font that allows for a more natural reading rhythm, which is will help the user navigate the content. Roboto is seen very often on websites and this in term will aid the user by building on existing mental models.
 
-# Features 
 
-## Existing Features 
-## Future Features 
+## Features 
+
+### Existing Features 
+
+### Future Features 
 
 # Technologies used
 
