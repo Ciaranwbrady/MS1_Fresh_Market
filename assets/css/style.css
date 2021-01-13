@@ -55,7 +55,7 @@ body {
     left: 0;
     width: 100%;
     min-height: 70vh;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.5);
 
 }
 
@@ -76,4 +76,10 @@ h2 {
 
 #hero-image .hero-text {
     padding-top: 200px;
+}
+
+.card-colour {
+    background-color: #63A577;
+    color: #fafafa;
+    border: solid 2px #fafafa;
 }
