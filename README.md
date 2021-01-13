@@ -204,4 +204,8 @@ Accessibility is of fundamental consideration when designing a site. It is impor
 
 ## Credits 
 
+### Code 
+
+### Images
+
 ## Support 
