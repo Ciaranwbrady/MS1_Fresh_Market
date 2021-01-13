@@ -208,4 +208,6 @@ Accessibility is of fundamental consideration when designing a site. It is impor
 
 ### Images
 
+![Jan_Canty](https://unsplash.com/photos/--XaLE4wF6s)
+
 ## Support 
