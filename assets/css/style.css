@@ -14,4 +14,24 @@ body {
 }
 
 
+/* Hero Image */
+
+#hero-image {
+    background: url(https://browser-d4f1896d-00db-4e3b-98fa-3a62ab86796c.ws-eu03.gitpod.io/workspace/MS1_Fresh_Market/assets/images/hero_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 70vh;
+}
+
+#hero-image .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 70vh;
+    background-color: rgba(0, 0, 0, 0.6);
+
+}
+
 
