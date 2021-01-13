@@ -1,6 +1,18 @@
+/* Colours
+
+Primary green: #63A577
+White: #fafafa
+Light Yellow: #F2DC99
+Salmon: #F5996b
+Grey: #555555
+*/
+
+
+
 body {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
+    font-size: 16px;
     color: #fafafa;
 }
 
@@ -10,8 +22,22 @@ body {
 .navbar {
     width: 100%;
     background-color: #63A577;
+}
+
+.navbar-light .navbar-brand {
+    font-family: 'Raleway' sans-serif;
+    font-weight: 400;
+    font-size: 32px;
     color: #fafafa;
 }
+
+.navbar-light .navbar-nav .nav-link {
+    font-family: 'Raleway' sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #fafafa;
+}
+
 
 
 /* Hero Image */
@@ -30,7 +56,7 @@ body {
     left: 0;
     width: 100%;
     min-height: 70vh;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.3);
 
 }
 
