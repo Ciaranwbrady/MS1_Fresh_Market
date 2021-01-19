@@ -40,6 +40,11 @@ body {
     color: #fafafa;
 }
 
+.navbar-light .navbar-toggler {
+    color: #fafafa;
+    border-color: #fafafa;
+}
+
 
 /* Hero Image */
 
@@ -48,7 +53,8 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    min-height: 70vh;
+    width: 100%;
+    min-height: 100vh;
 }
 
 #hero-image .overlay {
@@ -56,7 +62,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    min-height: 70vh;
+    min-height: 100vh;
     background-color: rgba(0, 0, 0, 0.5);
 
 }
