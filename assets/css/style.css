@@ -105,15 +105,35 @@ h2 {
 .card-colour {
     background-color: #63A577;
     color: #fafafa;
-    border: solid 2px #fafafa;
+    border: solid 4px #fafafa;
 }
 
 #mobile-mail {
     padding-top: 50px;
 }
 
+
+/* About Us Section */
 #about-us {
-    background: #63A577;
+    background-color:red;
     width: 100%;
-    height: 50vh;
+    height: 80vh;
 }
+
+.icon-card {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.icon {
+    background-color: #63A577;
+    color: #fafafa;
+    font-size: 3rem;
+    border-radius: 50%;
+    padding: 30px;
+    margin-top: 70px;
+    height:7rem;
+    width: 7rem;
+}
+
+
