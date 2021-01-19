@@ -123,6 +123,10 @@ h2 {
 .about-us-h1 {
     background-color:#63A577;
     color: #fafafa;
+    height: 4rem;
+    width:100%;
+    padding-top: 8px;
+    padding-bottom: 3px;
 }
 
 .icon-card {
@@ -146,3 +150,8 @@ h2 {
 }
 
 
+/* Deliveries section */
+
+.deliveries{
+    color: #555555;
+}
