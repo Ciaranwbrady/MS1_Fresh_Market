@@ -10,13 +10,30 @@ Grey: #555555
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500;600&family=Roboto:wght@400;700&display=swap");
 
 
+/* Typography  */
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 1rem;
     color: #fafafa;
 }
+
+
+h1 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    font-size: 3rem;
+    color: #fafafa;
+}
+
+h2 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+    color: #fafafa;
+}
+
 
 
 /* Navigation */
@@ -27,14 +44,14 @@ body {
 }
 
 .navbar-light .navbar-brand {
-    font-family: 'Raleway' sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 400;
-    font-size: 32px;
+    font-size: 2rem;
     color: #fafafa;
 }
 
 .navbar-light .navbar-nav .nav-link {
-    font-family: 'Raleway' sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 400;
     font-size: 20px;
     color: #fafafa;
@@ -54,7 +71,7 @@ body {
     background-size: cover;
     background-attachment: fixed;
     width: 100%;
-    min-height: 100vh;
+    min-height: 90vh;
 }
 
 #hero-image .overlay {
@@ -62,25 +79,11 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    min-height: 100vh;
+    min-height: 90vh;
     background-color: rgba(0, 0, 0, 0.5);
 
 }
 
-
-h1 {
-    font-family: 'Raleway' sans-serif;
-    font-weight: 400;
-    font-size: 48px;
-    color: #fafafa;
-}
-
-h2 {
-    font-family: 'Raleway' sans-serif;
-    font-weight: 400;
-    font-size: 30px;
-    color: #fafafa;
-}
 
 #hero-image .hero-text {
     padding-top: 200px;
