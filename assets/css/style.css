@@ -152,6 +152,20 @@ h2 {
 
 /* Deliveries section */
 
-.deliveries{
+
+#delivery {
+    width: 100%;
+    height:70%;
+    background-color: rgba(245, 153, 107,0.2);
+}
+
+
+
+.text-alt{
     color: #555555;
+}
+
+.del-icon {
+    font-size: 1.75rem;
+    color: #63A577;
 }
