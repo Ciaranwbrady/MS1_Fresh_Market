@@ -178,7 +178,15 @@ h2 {
 #location {
     width: 100%;
     height:70%;
-    /* background-color: rgba(245, 153, 107,0.1); */
+    background-color: rgba(99, 165, 119,0.1);
     padding-top: 3rem;
     padding-bottom: 3rem;
+}
+
+.location-heading {
+    
+    color:#555555;
+    height: 5rem;
+    width:100%;
+    padding-bottom: 0.5rem;
 }
