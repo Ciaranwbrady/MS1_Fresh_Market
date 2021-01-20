@@ -169,3 +169,16 @@ h2 {
     font-size: 1.75rem;
     color: #63A577;
 }
+.list-bg-color {
+   background-color: rgba(245, 153, 107,0.1);
+}
+
+/* Location  */
+
+#location {
+    width: 100%;
+    height:70%;
+    /* background-color: rgba(245, 153, 107,0.1); */
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
