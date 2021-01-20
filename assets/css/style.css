@@ -205,5 +205,15 @@ h2 {
 .form-control {
     border: 1px solid #fafafa;
     border-radius: 0.5rem;
-    
+}
+
+.btn-dark {
+    background-color: #63A577;
+    border-color: #63A577;
+}
+
+.btn:hover {
+    background-color:#fafafa;
+    color: #63A577;
+    border-color: #63A577;
 }
