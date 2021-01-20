@@ -80,10 +80,10 @@
     </div>
 </section>
  
-<section id="mobile-mail d-none d-sm-block d-lg-none pt-5">
+<section id="mobile-mail d-lg-none pt-5">
     <div class= "container">
         <div class="row">
-            <div class="col-sm-12 d-none d-sm-block d-lg-none mb-5">
+            <div class="col-10 offset-1 d-lg-none mt-4 mb-4">
                 <div class="card card-colour text-center card-form">
                     <div class="card-body">
                     <i class="far fa-envelope fa-2x"></i>
@@ -176,8 +176,51 @@
     </div>
 </section>
 <!-- Contact Us -->
+<section class="contact-us">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2>Contact Us</h2>
+                </div>
+            </div>
+           
+            <form>
+                <div class="row">
+                    <div class="col-12 col-sm-6">
+                        <label for="form-message">Your Name</label>
+                        <input type="text" id="your-name" class="form-control" required>
+                    </div>
+                    <div class="col-12 col-sm-6">
+                        <label for="form-message">Your Email</label>
+                        <input type="email" class="form-control" id="email" required>
+                    </div>
+                    <div class="col-12">
+                        <label for="form-message" class="contact-form-text">Your Message</label>
+                        <textarea class="form-control" id="form-message" rows="3" required></textarea>
+                    </div>
+                    <div class="col-12">
+                        <button type="submit" class="btn btn-dark btn-lg float-right" id="contact-btn-form">Send</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </section>
 <!-- Footer -->
-
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-4">
+                <h2>Fresh Market</h2>
+            </div>
+            <div class="col-4">
+                <h2>Social</h2>
+                <a href="https://www.facebook.com" target="_blank">
+                <span class="fa fa-facebook-square"></span>
+                </a>
+            </div>
+        </div>
+    </div>
+</footer>
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
