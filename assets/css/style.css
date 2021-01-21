@@ -103,7 +103,7 @@ h2 {
 
 
 #hero-image .hero-text {
-    padding-top: 200px;
+    padding-top: 10rem;
 }
 
 .card-colour {
@@ -248,3 +248,50 @@ h2 {
 .footer-icon:hover {
     color: #b1d2bb;
 }
+
+/* ------------------------ Media Queries  */
+
+/* ADVICE - Help on understanding media queries https://www.w3schools.com/css/css3_mediaqueries_ex.asp */
+/* iPad and iPad pro */
+@media screen and (min-width: 768px) and (max-width: 992px){
+    #hero-image {
+        min-height: 40vh;
+    }
+    #hero-image .overlay {
+        min-height: 40vh;
+    }
+    #hero-image .hero-text {
+        padding-top: 7rem;
+    }
+}
+
+/*  */
+
+
+/* iPhone 6 screen */
+@media screen and (max-width: 375px) {
+    #hero-image {
+        min-height: 60vh;
+    }
+    #hero-image .overlay {
+        min-height: 60vh;
+    }
+    #hero-image .hero-text {
+        padding-top: 7rem;
+    }
+}
+
+/* iPhone 5 screen */
+@media screen and (max-width: 320px) {
+    #hero-image {
+        min-height: 80vh;
+    }
+    #hero-image .overlay {
+        min-height: 80vh;
+    }
+    #hero-image .hero-text {
+        padding-top: 7rem;
+    }
+}
+
+
