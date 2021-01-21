@@ -41,7 +41,7 @@ h2 {
 /* Hover states */
 
 .navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
-    font-size: 2.1rem;
+    
     color: #b1d2bb;
 }
 
@@ -239,8 +239,12 @@ h2 {
 .footer-icon {
     
     color: #fafafa;
-    font-size: 3rem;
+    font-size: 2.5rem;
     height:3rem;
     width: 3rem;
-    margin-right: 2rem;
+}
+
+
+.footer-icon:hover {
+    color: #b1d2bb;
 }
