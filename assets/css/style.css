@@ -243,7 +243,9 @@ h2 {
 
 /* ------------------------ Media Queries  */
 
+
 /* ADVICE - Help on understanding media queries https://www.w3schools.com/css/css3_mediaqueries_ex.asp */
+
 /* iPad and iPad pro */
 
 @media screen and (min-width: 768px) and (max-width: 992px){
@@ -258,7 +260,20 @@ h2 {
     }
 }
 
-/*  */
+
+/* Large breakpoint */
+
+@media screen and (max-width: 425px) {
+    #hero-image {
+        min-height: 40vh;
+    }
+    #hero-image .overlay {
+        min-height: 40vh;
+    }
+    #hero-image .hero-text {
+        padding-top: 7rem;
+    }
+}
 
 
 /* iPhone 6 screen */
@@ -272,6 +287,13 @@ h2 {
     #hero-image .hero-text {
         padding-top: 7rem;
     }
+
+    h1 {
+        font-size: 2.5rem;
+    }
+    h2 {
+        font-size: 1.5rem;
+    }
 }
 
 /* iPhone 5 screen */
@@ -283,7 +305,13 @@ h2 {
         min-height: 40vh;
     }
     #hero-image .hero-text {
-        padding-top: 7rem;
+        padding-top: 6rem;
+    }
+    h1 {
+        font-size: 2rem;
+    }
+    h2 {
+        font-size: 1rem;
     }
 }
 
@@ -301,8 +329,11 @@ h2 {
     }
 }
 
-/* Pixel 2xl Landscape view */
-@media screen and (max-height: 411px) {
+
+
+
+/* Pixel 2xl and iPhone 6/7/8 Landscape view */
+@media screen and (max-height: 414px) {
     #hero-image {
         min-height: 60vh;
     }
@@ -311,6 +342,12 @@ h2 {
     }
     #hero-image .hero-text {
         padding-top: 6rem;
+    }
+    h1 {
+        font-size: 2rem;
+    }
+    h2 {
+        font-size: 1rem;
     }
 }
 
