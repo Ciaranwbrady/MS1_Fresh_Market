@@ -1,11 +1,3 @@
-/* Colours
-
-Primary green: #63A577
-White: #fafafa
-Light Yellow: #F2DC99
-Salmon: #F5996b
-Grey: #555555
-*/
 
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500;600&family=Roboto:wght@400;700&display=swap");
 
@@ -88,7 +80,7 @@ h2 {
     background-size: cover;
     background-attachment: fixed;
     width: 100%;
-    min-height: 80vh;
+    min-height: 70vh;
 }
 
 #hero-image .overlay {
@@ -96,7 +88,7 @@ h2 {
     top: 0;
     left: 0;
     width: 100%;
-    min-height: 80vh;
+    min-height: 70vh;
     background-color: rgba(0, 0, 0, 0.5);
 
 }
@@ -253,6 +245,7 @@ h2 {
 
 /* ADVICE - Help on understanding media queries https://www.w3schools.com/css/css3_mediaqueries_ex.asp */
 /* iPad and iPad pro */
+
 @media screen and (min-width: 768px) and (max-width: 992px){
     #hero-image {
         min-height: 40vh;
@@ -271,10 +264,10 @@ h2 {
 /* iPhone 6 screen */
 @media screen and (max-width: 375px) {
     #hero-image {
-        min-height: 60vh;
+        min-height: 40vh;
     }
     #hero-image .overlay {
-        min-height: 60vh;
+        min-height: 40vh;
     }
     #hero-image .hero-text {
         padding-top: 7rem;
@@ -284,13 +277,40 @@ h2 {
 /* iPhone 5 screen */
 @media screen and (max-width: 320px) {
     #hero-image {
-        min-height: 80vh;
+        min-height: 40vh;
     }
     #hero-image .overlay {
-        min-height: 80vh;
+        min-height: 40vh;
     }
     #hero-image .hero-text {
         padding-top: 7rem;
+    }
+}
+
+
+/* iPhone X Landscape view */
+@media screen and (max-height: 375px) {
+    #hero-image {
+        min-height: 70vh;
+    }
+    #hero-image .overlay {
+        min-height: 70vh;
+    }
+    #hero-image .hero-text {
+        padding-top: 5rem;
+    }
+}
+
+/* Pixel 2xl Landscape view */
+@media screen and (max-height: 411px) {
+    #hero-image {
+        min-height: 60vh;
+    }
+    #hero-image .overlay {
+        min-height: 60vh;
+    }
+    #hero-image .hero-text {
+        padding-top: 6rem;
     }
 }
 
