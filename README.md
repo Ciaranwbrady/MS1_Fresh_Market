@@ -2,6 +2,9 @@
 
 <img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/Fresh%20Market%20logo.png?raw=true" style="margin: 0;">
 
+## Fresh Market - Final Design
+<img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/402dd4520ecef708b9fd57ecb0ecf6f431c6df70/assets/docs/Responsive_devices.png" style="margin: 0;">
+
 ## Purpose 
 
 This website was designed and created to fulfill the requirements of the Milestone 1 project for the Diploma in Full Stack Development from Code Institute. In order to build this project HTML, CSS and other skills learnt from the User Centric Design module were used. 
