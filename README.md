@@ -218,7 +218,7 @@ Accessibility is of fundamental consideration when designing a site. It is impor
 
 ## Testing 
 
-Testing results can be read in the [testing.md](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/TESTING.md) file
+- Testing results can be read in the [testing.md](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/TESTING.md) file
 
 
 ## Deployment 
@@ -238,4 +238,6 @@ Testing results can be read in the [testing.md](https://github.com/Ciaranwbrady/
 ![Fruit_Delivery](https://img.resized.co/image_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmltYWdlLmllXFxcL3VwbG9hZHNcXFwvMjAyMFxcXC8wNFxcXC8wOTEwNDk0MlxcXC84NDcwNjU4Nl8zMzMwMTMxMzIwMzQ5NzIxXzQ4ODI5NTg2MjY3NDM5MTA0MDBfby5qcGdcIixcIndpZHRoXCI6OTkwLFwiaGVpZ2h0XCI6NTI5LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuaW1hZ2UuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZz92PTJcIn0iLCJoYXNoIjoiZTQxY2VmYWE5ZGFlOTYwZjgyNTg3NDVhZTgzNmM0NzdjZWY0ZDgwOCJ9/84706586-3330131320349721-4882958626743910400-o.jpg)
 
 ![Ja_ma](https://images.unsplash.com/photo-1488459716781-31db52582fe9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
-## Support 
+## Support or Contact 
+
+Ciaranwbrady@gmail.com
