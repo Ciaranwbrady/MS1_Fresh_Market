@@ -1,7 +1,7 @@
-# Testing
+# 8. Testing
 
-## 1.  Automated Testing
-### 1.1 - Validation Testing 
+## 8.1  Automated Testing
+### 8.1.1 - Validation Testing 
 
 Validation testing was undertaken for HTML and CSS
 
@@ -23,7 +23,7 @@ For CSS validation the [W3C CSS Validation Service](https://jigsaw.w3.org/css-va
 The CSS yielded no errors and I was happy to procede with further testing at this stage. 
 <p>&nbsp;</p>
 
-### 1.2 - Lighthouse testing
+### 8.1.2 - Lighthouse testing
 
 For some further insight insight I tested the page with [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
 
@@ -51,7 +51,7 @@ This resulted with a marked imrpovement in accesibility that is just below 90. W
 <img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/accesibiltyimprovent.png?raw=true" style="margin:0;">
 <p>&nbsp;</p>
 
-### 1.3 - Responsiveness and Compatibility
+### 8.1.3 - Responsiveness and Compatibility
 
 To check responsiveness for the site [Google Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools) were used which provide the following results 
 
@@ -59,7 +59,7 @@ To check responsiveness for the site [Google Chrome Dev Tools](https://developer
 
 <p>&nbsp;</p>
 
-### 1.4 - Devices and Browsers
+### 8.1.4 - Devices and Browsers
 
 I was unable to find a way to test my site on Internet Explorer as I did not have access to it. This is something I hope to rectify and work on after submission. 
 
@@ -71,7 +71,7 @@ The galaxy fold was the only device that had some display issues. The didn't ove
 
 <p>&nbsp;</p>
 
-### 1.5 - Code Institute Peer Code Review
+### 8.1.5 - Code Institute Peer Code Review
 
 I submitted my project for feedback on the Peer code review channel of the Code Institutes Slack. With the feedback I gained from this I was able to implement some fixes and changes.
 
@@ -83,7 +83,7 @@ I submitted my project for feedback on the Peer code review channel of the Code 
 
 <p>&nbsp;</p>
 
-### 1.6 - Performance Testing 
+### 8.1.6 - Performance Testing 
 
 - Some Additonal performance testing was carried out on [WebPageTest](https://www.webpagetest.org/) with the page scoring very well on every section bar security. This is something I'm sure I will learn to improve on as I progress on the course
 
@@ -91,7 +91,7 @@ I submitted my project for feedback on the Peer code review channel of the Code 
 
 <p>&nbsp;</p>
 
-### 1.7 - Further Responsive Testing
+### 8.1.7 - Further Responsive Testing
 
 Some additonal visual testing was done on the following websites to see how the webpage looked on different devices together.
 
@@ -101,10 +101,10 @@ Some additonal visual testing was done on the following websites to see how the 
 
 <p>&nbsp;</p>
 
-## 2. Testing User Stories. 
+## 8.2 Testing User Stories. 
 <p>&nbsp;</p>
 
-### 2.1 - First time user of the site goals
+### 8.2.1 - First time user of the site goals
 
 - As a first time user, I want to learn a bit more about the business and what they do?
     - A first time user can achieve this by reading the About Us, linking to the social media accounts in the footer or using the contact form.
@@ -124,7 +124,7 @@ Some additonal visual testing was done on the following websites to see how the 
 - As a first time user, I want to be able to check the site on mobile as well as desktop. 
     - The user can achieve this as the site is fully responsive across mobile and desktop. 
 
-### 2.2 - Returning user of the site’s goals
+### 8.2.2 - Returning user of the site’s goals
 
 - As a returning user, I want to learn more about the delivery options this week.
     - The user can achieve this by selecting delivery in the Nav Bar or scrolling down the page. 
@@ -135,7 +135,7 @@ Some additonal visual testing was done on the following websites to see how the 
 - As a returning user, I would like to be able to find a phone number to call the shop to ask them to hold something for me. 
     - The user can achieve this by using the number provide in the Location section.
 
-### 2.3 - A frequent user of the site’s goals
+### 8.2.3 - A frequent user of the site’s goals
 
 - As a frequent user, I want to be able to sign up to the mailing list.
     - The user can achieve this by signing up in the hero image on large devices or in the sign up box below the hero image on smaller devices
@@ -146,7 +146,7 @@ Some additonal visual testing was done on the following websites to see how the 
 - As a frequent user, I want to be able to check the latest information about the shop and Covid
     - The user can achieve this by checking out the delivery section of the site which addresses Covid or by sending a message or using the contact number provided.
 
-## 3. Bugs 
+## 8.3 Bugs 
 
 - One of the biggest bugs initally was the Heading font of Raleway not displaying in the hero image. This was overcome by using " instead of '. 
 
