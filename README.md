@@ -185,28 +185,40 @@ Accessibility is of fundamental consideration when designing a site. It is impor
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 
 ### Frameworks, Libraries, Programs and Sites.
+
 - [Bootstrap](https://getbootstrap.com/) - Bootstrap was used to take advantage of the grid, ease of use for responsive layout and components like navbar, cards, existing CDN CI template and footer.
 
 - [Balsamiq](https://balsamiq.com/) - Balsamiq was used to create wireframes for mobile, tablet and desktop.
 
 - [Adobe XD](https://www.adobe.com/ie/products/xd.html) - Adobe XD was used to create graphics, logo and personas that are included in the readme
-- Adobe Illustrator 
-- Unsplash
-- Noun Project 
-- Google Fonts
-- Adobe colours
-- Typewolf 
 
+- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) - Illustrator was used to change colour of SVG icons to use in the README logo for the Fresh Market.
+
+- [Unsplash](https://unsplash.com/) - The hero image was uptained from Unsplash and is credited later on in the README file.
+
+- [Undraw](https://undraw.co/) - The illustration was taken from the Undraw and used in conjuction with the creative common licence in the Deliveries section of the site.
+
+- [Noun Project](https://thenounproject.com/term/broccoli/856697/) - Some logos from Alex Muravevs handdrawn collection were used based on creative commons in the Fresh Market logo idea.
+
+- [Google Fonts](https://fonts.google.com/) - The fonts 'Raleway' and 'Roboto' were found and the relevant CSS styling was taken from this site to import the fonts for use.
+
+- [Adobe colours](https://color.adobe.com/create/color-wheel) - Adobe Colours was used to experiment with colours based on photographs taken in the Fresh Market. It also aided with ensuring the colours used were accesible. 
+
+- [Typewolf](https://www.typewolf.com/) - Typewolf was used to help get an insight into popular font pairings and for seeing what may work from google fonts selections. 
+
+- [Font Awesome](https://fontawesome.com/) - Font awesome provided the icons and code for the icons used in the about us section, deliveries and the footer.
 ### Workspace, Repositories and Version Control
 
-- Gitpod
-- Github
+- [Github](www.github.com) - This project and all its files are hosted on github and the live website is hosted by using Git Hub Pages.
+
+- [Gitpod](www.gitpod.io) - Gitpod is recommended by the coding institute and was used as the IDE. It also enabled me to add, commit and push to GitHub and keep track of version control. 
 
 
-## Resources
+
 
 ## Testing 
 
+Testing results can be read in the [testing.md](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/TESTING.md) file
 
 
 ## Deployment 
