@@ -239,21 +239,53 @@ The Fresh Market site was published using [GitHubPages](https://pages.github.com
 2. Locate and click on the settings section to the right of the screen. Settings can be viewed in the photo below
 <img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/settings.png?raw=true" style="margin:0;">
 
-3. 
+3. When settings is open you will need to scroll down to the 'Git Hub Pages' section which is around half way down the page.
+4. Use the 'Source' section and pick 'Master Branch'
+5. This will eventually reload and display the address for the published page as demonstrated in the photo below.
 <img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/githubpages.png?raw=true" style="margin:0;">
+
+6. This can sometimes take a few minutes, so some patience may be required before being able to view your page. 
+
+### Cloning Project 
+
+1. Open the Github Repo for this project [Ciaranwbrady/MS1_Fresh_Market](https://github.com/Ciaranwbrady/MS1_Fresh_Market)
+2. By clicking on the code section you will be presented with a drop down as demonstrated in the photo below
+<img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/clone%20project.png?raw=true" style="margin:0;">
+
+3. Select and copy the URL or you can choose to 'Download Zip'
+4. With your terminal open or chosen IDE type 'git clone' in the CLI then paste the copied URL.
+5. If you would prefer you can also use the 'Open with Github Desktop' option and follow the steps provided.
+
 ## Credits 
-
-
 
 ### Code 
 
-### Images
+- The [bootstrap documentation](https://getbootstrap.com/docs/4.0/getting-started/introduction/) was very important in helping me understand responsiveness and the grid.
+- All individual instances of Code Snippets or help from [Stack Overflow](http://stackoverflow.com/) are credited and commented within the HTML and CSS.
+- Another source of inspiration and help was [W3schools](https://www.w3schools.com/)
+- Finally, I learnt a lot from the Code Institute circulam and questions asked in the various slack channels. 
 
-![Jan_Canty](https://unsplash.com/photos/--XaLE4wF6s)
+### Images and websites
 
-![Fruit_Delivery](https://img.resized.co/image_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmltYWdlLmllXFxcL3VwbG9hZHNcXFwvMjAyMFxcXC8wNFxcXC8wOTEwNDk0MlxcXC84NDcwNjU4Nl8zMzMwMTMxMzIwMzQ5NzIxXzQ4ODI5NTg2MjY3NDM5MTA0MDBfby5qcGdcIixcIndpZHRoXCI6OTkwLFwiaGVpZ2h0XCI6NTI5LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuaW1hZ2UuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZz92PTJcIn0iLCJoYXNoIjoiZTQxY2VmYWE5ZGFlOTYwZjgyNTg3NDVhZTgzNmM0NzdjZWY0ZDgwOCJ9/84706586-3330131320349721-4882958626743910400-o.jpg)
+- The hero image was used courtesy of [Jan_Canty](https://unsplash.com/photos/--XaLE4wF6s) on [Unsplash](www.unsplash.com).
 
-![Ja_ma](https://images.unsplash.com/photo-1488459716781-31db52582fe9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+- The 'Delivery' illustration was used with permision from [Undraw](www.undraw.co).
+
+- All content on the website was written by me. 
+
+- The icons used on the site were all sourced from [FontAwesome](https://fontawesome.com/).
+
+- These websites provided some inspiration for layout and form
+    - [Handmade Soap](https://thehandmadesoapcompany.ie/)
+    - [NY Times Cooking](https://cooking.nytimes.com/)
+
+### Thanks 
+- Thanks to my mentor Precious Ijege for his help and guidance during the process.
+- All of the people who helped me with questions and problems on the Code Institute Slack Channel.
+- The Code Institute Staff and Tutors.
+
 ## Support or Contact 
 
-Ciaranwbrady@gmail.com
+Email: Ciaranwbrady@gmail.com
+
+Or connect with me on [Linkedin](https://www.linkedin.com/in/ciaran-brady-dublin/).
