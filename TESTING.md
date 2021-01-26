@@ -137,6 +137,21 @@ Some additonal visual testing was done on the following websites to see how the 
 
 # Bugs 
 
+- One of the biggest bugs initally was the Heading font of Raleway not displaying in the hero image. This was overcome by using " instead of '. 
 
+- The website was not displaying correctly on iPhone 5/SE.
+    - To overcome this problem I added a media query for this device. 
+
+- In the about us section the text was overflowing beyond the container limit I had set. 
+    - This took some work to figure out but ended up being down to a mispelt item. Once 'Container' was spelled correctly it worked perfectly.
+
+- The footer was not displaying the social media icons correctly. 
+    - This was down to a margin right issue that was pushing the icons incorrectly when resizing the viewport. This was fixed by using display properties and changing the col sizes for social links.
+
+- On the Pixel 2 XL the hero image was taking up too much of the screen.
+    - I overcame this by setting a media query to adjust the size of the hero image using viewport width and height.
+
+- The hover state for the navbar was causing the navbar to grow as a user hovered over it.
+    - To fix this issue I adjusted the font-size on the hover state and changed the color instead to indicate the hover state. 
 
 [Return to README.md document.](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/README.md)
