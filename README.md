@@ -33,7 +33,7 @@ The aim of this project is to create a fully responsive and aesthetically pleasi
 
 ### Returning user of the site’s goals
 
-- As a returning user, I want to learn more about the specials on offer that week.
+- As a returning user, I want to learn more about delivery options this week.
 
 - As a returning user, I would like to contact the business to get answers to my questions. 
 
