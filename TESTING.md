@@ -53,22 +53,42 @@ This resulted with a marked imrpovement in accesibility that is just below 90. W
 
 To check responsiveness for the site [Google Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools) were used which provide the following results 
 
-## Responsive Breakpoints and Devices
+<img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/Responsive%20Breakpoints.png?raw=true" style="margin:0;">
+
+## Devices and Browsers
+
+I was unable to find a way to test my site on Internet Explorer as I did not have access to it. This is something I hope to rectify and work on after submission. 
+
+The galaxy fold was the only device that had some display issues. The didn't overlay effect the usage of the website. However, I would like to improve it in portrait mode.
+
+<img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/Device%20Testing.png?raw=true" style="margin:0;">
+
+<img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/Browser%20Testing.png?raw=true" style="margin:0;">
 
 
 
 ## Code Institute Peer Code Review
-- I submitted my project for feedback on the Peer code review channel of the Code Institutes Slack. With the feedback I gained from this I was able to implement some fixes and changes.
 
-The Navbar brand Hover state was forcing the text and navbar to expand. I changed the hover properties for navbar.brand and this stopped the menu from expanding.
+I submitted my project for feedback on the Peer code review channel of the Code Institutes Slack. With the feedback I gained from this I was able to implement some fixes and changes.
 
-I also changed the display properties for the mailing list to display differently on devices smaller than lg. This dropped it down to it's own section and was more visually appealling. 
+- The Navbar brand Hover state was forcing the text and navbar to expand. I changed the hover properties for navbar.brand and this stopped the menu from expanding.
 
-As a result of sharing my project I was also able to figure out something that was broken in the About us section. The About Us text was overfollowing and presnting issues with horizontal scroll. This was due to a spelling error for a Container item. Without the slack channel I may not have spotted this. 
+- I also changed the display properties for the mailing list to display differently on devices smaller than lg. This dropped it down to it's own section and was more visually appealling. 
+
+- As a result of sharing my project I was also able to figure out something that was broken in the About us section. The About Us text was overfollowing and presnting issues with horizontal scroll. This was due to a spelling error for a Container item. Without the slack channel I may not have spotted this. 
+
 ## Performance Testing 
 - Some Additonal performance testing was carried out on [WebPageTest](https://www.webpagetest.org/) with the page scoring very well on every section bar security. This is something I'm sure I will learn to improve on as I progress on the course
 
 <img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/webperformancetest.png?raw=true" style="margin:0;">
+
+## Further Responsive Testing
+
+Some additonal visual testing was done on the following websites to see how the webpage looked on different devices together.
+
+- [Responsive Design Checker](https://www.responsivedesignchecker.com/)
+
+- [Am I Responsive](http://ami.responsivedesign.is/)
 
 ## User Stories 
 
