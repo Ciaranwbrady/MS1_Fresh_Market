@@ -90,7 +90,53 @@ Some additonal visual testing was done on the following websites to see how the 
 
 - [Am I Responsive](http://ami.responsivedesign.is/)
 
-## User Stories 
+# Testing User Stories 
 
 
-## Bugs 
+## First time user of the site goals
+
+- As a first time user, I want to learn a bit more about the business and what they do?
+    - A first time user can achieve this by reading the About Us, linking to the social media accounts in the footer or using the contact form.
+
+- As a first time user, I want to learn about the products the business stocks. 
+    - The User can do this in the About Us section or by using the social liks to check the businesses instagram
+
+- As a first time user, I want to learn where the business is located and what are the opening hours
+    - The user can achieve this by hitting the location section in the navbar or by scrolling down the page to it.
+
+- As a first time user, I want to navigate the content and be able to interpret and understand the information easily.
+    - The user can achieve this as each section has pictures, icons and limited text to convey the message in an easy manor.
+
+- As a first time user, I want to follow the business on social media and be able to contact them. 
+    - The user can achieve this by clicking on the social links in the footer
+
+- As a first time user, I want to be able to check the site on mobile as well as desktop. 
+    - The user can achieve this as the site is fully responsive across mobile and desktop. 
+
+## Returning user of the site’s goals
+
+- As a returning user, I want to learn more about the delivery options this week.
+    - The user can achieve this by selecting delivery in the Nav Bar or scrolling down the page. 
+
+- As a returning user, I would like to contact the business to get answers to my questions. 
+    - The user can achieve this by submitting a message using the contact form. 
+
+- As a returning user, I would like to be able to find a phone number to call the shop to ask them to hold something for me. 
+    - The user can achieve this by using the number provide in the Location section.
+
+## A frequent user of the site’s goals
+
+- As a frequent user, I want to be able to sign up to the mailing list.
+    - The user can achieve this by signing up in the hero image on large devices or in the sign up box below the hero image on smaller devices
+
+- As a frequent user, I want to be able to find quick links to the company's social media pages. 
+    - The user can achieve this with the quick links that are located in the footer. 
+
+- As a frequent user, I want to be able to check the latest information about the shop and Covid
+    - The user can achieve this by checking out the delivery section of the site which addresses Covid or by sending a message or using the contact number provided.
+
+# Bugs 
+
+
+
+[Return to README.md document.](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/README.md)
