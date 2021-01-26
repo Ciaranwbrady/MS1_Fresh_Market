@@ -1,11 +1,18 @@
 # Fresh Market
 
-<img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/Fresh%20Market%20logo.png?raw=true" style="margin: 0;">
-
-## Fresh Market - Final Design
 <img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/Responsive_devices.png?raw=true" style="margin: 0;">
 
 The final site can be viewed at  - [The Fresh Market Live site](https://ciaranwbrady.github.io/MS1_Fresh_Market/)
+
+<p>&nbsp;</p>
+
+## Fresh Market 
+<img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/Fresh%20Market%20logo.png?raw=true" style="margin: 0;">
+
+The Fresh Market is a local grocery store that provides fresh veg and produce to the people of Marino, Dublin 3. The have recently found life difficult with Covid 19 and have only a basic web presence. A simple website would allow them to provide more info to the local community and be a stepping stone to eventually having an online store.
+
+<p>&nbsp;</p>
+
 ## Purpose 
 
 This website was designed and created to fulfill the requirements of the Milestone 1 project for the Diploma in Full Stack Development from Code Institute. In order to build this project HTML, CSS and other skills learnt from the User Centric Design module were used. 
