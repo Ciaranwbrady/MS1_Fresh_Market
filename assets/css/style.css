@@ -44,7 +44,7 @@ h2 {
 
 .navbar {
     width: 100%;
-    background-color: #63a577;
+    background-color: #365E3F;
     border-bottom: 2px solid #fafafa;
 }
 
@@ -92,7 +92,7 @@ h2 {
 }
 
 .card-colour {
-    background-color: #63a577;
+    background-color: #365E3F;
     color: #fafafa;
     border: solid 4px #fafafa;
 }
@@ -116,7 +116,7 @@ h2 {
 }
 
 .icon {
-    background-color: #63a577;
+    background-color: #365E3F;
     color: #fafafa;
     font-size: 3rem;
     border-radius: 50%;
@@ -145,7 +145,7 @@ h2 {
 
 .del-icon {
     font-size: 1.75rem;
-    color: #63a577;
+    color: #365E3F;
 }
 .list-bg-color {
     background-color: rgba(245, 153, 107, 0.1);
@@ -186,20 +186,20 @@ h2 {
 }
 
 .btn-dark {
-    background-color: #63a577;
-    border-color: #63a577;
+    background-color:#365E3F;
+    border-color: #365E3F;
 }
 
 .btn:hover {
     background-color: #fafafa;
-    color: #63a577;
-    border-color: #63a577;
+    color: #365E3F;
+    border-color: #365E3F;
 }
 
 /* Footer */
 
 #footer-1 {
-    background-color: #63a577;
+    background-color: #365E3F;
     width: 100%;
     min-height: 40vh;
 }
