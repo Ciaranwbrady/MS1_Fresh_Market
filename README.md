@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/Responsive_devices.png?raw=true" style="margin: 0;">
 
-The final site can be viewed at  - [The Fresh Market Live site](https://ciaranwbrady.github.io/MS1_Fresh_Market/)
+The final site can be viewed at  - [The Fresh Market Live Website](https://ciaranwbrady.github.io/MS1_Fresh_Market/)
 
 <p>&nbsp;</p>
 
@@ -214,6 +214,7 @@ Accessibility is of fundamental consideration when designing a site. It is impor
 - [Typewolf](https://www.typewolf.com/) - Typewolf was used to help get an insight into popular font pairings and for seeing what may work from google fonts selections. 
 
 - [Font Awesome](https://fontawesome.com/) - Font awesome provided the icons and code for the icons used in the about us section, deliveries and the footer.
+
 ### Workspace, Repositories and Version Control
 
 - [Github](www.github.com) - This project and all its files are hosted on github and the live website is hosted by using Git Hub Pages.
@@ -230,8 +231,16 @@ Accessibility is of fundamental consideration when designing a site. It is impor
 
 ## Deployment 
 
+### Publishing
 
+The Fresh Market site was published using [GitHubPages](https://pages.github.com/). In order to do this I took the following steps
 
+1. Open my Github Repo for this project [Ciaranwbrady/MS1_Fresh_Market](https://github.com/Ciaranwbrady/MS1_Fresh_Market)
+2. Locate and click on the settings section to the right of the screen. Settings can be viewed in the photo below
+<img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/settings.png?raw=true" style="margin:0;">
+
+3. 
+<img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/githubpages.png?raw=true" style="margin:0;">
 ## Credits 
 
 
