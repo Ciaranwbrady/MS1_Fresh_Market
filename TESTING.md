@@ -36,6 +36,10 @@ Steps taken to improve on these performance and accesibility results
 -   Added title to iframe attribute 
 
 -   Changed Navbar colour to meet accesibility guidlines and pass each test on the [Webaim Contrast Checker](https://webaim.org/resources/contrastchecker/)
+
+- Set height and width for item that this was not set for. 
+
+<img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/lighthouse2.png?raw=true" style="margin:0;">
 ## Responsiveness 
 
 
