@@ -40,8 +40,35 @@ Steps taken to improve on these performance and accesibility results
 - Set height and width for item that this was not set for. 
 
 <img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/lighthouse2.png?raw=true" style="margin:0;">
-## Responsiveness 
 
+- The accesibility still needs to be improved but this is something that would require a bit more time from me and is a little beyond my learning currently. The default form elements used from the bootstrap documenation are returning high accesibility errors. As these forms are just for a static page this is okay. This would definetely need to be addressed on a real site.  
+
+- Finally Aria label elements were added to all link elements. 
+
+This resulted with a marked imrpovement in accesibility that is just below 90. With further insight and time I believe I could improve this further. Given this is my first project I am happy to learn from it. 
+
+<img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/accesibiltyimprovent.png?raw=true" style="margin:0;">
+
+## Responsiveness and Compatibility
+
+To check responsiveness for the site [Google Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools) were used which provide the following results 
+
+## Responsive Breakpoints and Devices
+
+
+
+## Code Institute Peer Code Review
+- I submitted my project for feedback on the Peer code review channel of the Code Institutes Slack. With the feedback I gained from this I was able to implement some fixes and changes.
+
+The Navbar brand Hover state was forcing the text and navbar to expand. I changed the hover properties for navbar.brand and this stopped the menu from expanding.
+
+I also changed the display properties for the mailing list to display differently on devices smaller than lg. This dropped it down to it's own section and was more visually appealling. 
+
+As a result of sharing my project I was also able to figure out something that was broken in the About us section. The About Us text was overfollowing and presnting issues with horizontal scroll. This was due to a spelling error for a Container item. Without the slack channel I may not have spotted this. 
+## Performance Testing 
+- Some Additonal performance testing was carried out on [WebPageTest](https://www.webpagetest.org/) with the page scoring very well on every section bar security. This is something I'm sure I will learn to improve on as I progress on the course
+
+<img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/webperformancetest.png?raw=true" style="margin:0;">
 
 ## User Stories 
 
