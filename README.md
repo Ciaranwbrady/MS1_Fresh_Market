@@ -179,14 +179,17 @@ Accessibility is of fundamental consideration when designing a site. It is impor
 
 ## Technologies used
 
-### Languages - ADD LOGOS FOR THIS AND LINKS
-- HTML
-- CSS
+### Languages
+- [HTML](https://en.wikipedia.org/wiki/HTML5) 
+
+- [CSS](https://en.wikipedia.org/wiki/CSS)
 
 ### Frameworks, Libraries, Programs and Sites.
-- Bootstrap
-- Balsamiq
-- Adobe XD
+- [Bootstrap](https://getbootstrap.com/) - Bootstrap was used to take advantage of the grid, ease of use for responsive layout and components like navbar, cards, existing CDN CI template and footer.
+
+- [Balsamiq](https://balsamiq.com/) - Balsamiq was used to create wireframes for mobile, tablet and desktop.
+
+- [Adobe XD](https://www.adobe.com/ie/products/xd.html) - Adobe XD was used to create graphics, logo and personas that are included in the readme
 - Adobe Illustrator 
 - Unsplash
 - Noun Project 
@@ -204,9 +207,15 @@ Accessibility is of fundamental consideration when designing a site. It is impor
 
 ## Testing 
 
+
+
 ## Deployment 
 
+
+
 ## Credits 
+
+
 
 ### Code 
 
