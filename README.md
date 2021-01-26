@@ -6,24 +6,27 @@ The final site can be viewed at  - [The Fresh Market Live Website](https://ciara
 
 <p>&nbsp;</p>
 
-## Fresh Market 
+## Information about The Fresh Market 
 <img src="https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/Fresh%20Market%20logo.png?raw=true" style="margin: 0;">
 
 The Fresh Market is a local grocery store that provides fresh veg and produce to the people of Marino, Dublin 3. The have recently found life difficult with Covid 19 and have only a basic web presence. A simple website would allow them to provide more info to the local community and be a stepping stone to eventually having an online store.
 
 <p>&nbsp;</p>
 
-## Purpose 
+## 1. Purpose 
 
 This website was designed and created to fulfill the requirements of the Milestone 1 project for the Diploma in Full Stack Development from Code Institute. In order to build this project HTML, CSS and other skills learnt from the User Centric Design module were used. 
 
-## Aim 
+## 2. Aim 
 
 The aim of this project is to create a fully responsive and aesthetically pleasing mobile first design for a local grocery store that was not prepared for Covid-19 with their online presence. Having an Instagram is not enough for a local business that wants to grow. A well designed site would help ‘The Fresh Market’ reach a wider audience and give them a chance to find more business online. The site should provide information and answers to potential new customers and existing ones. Give people the opportunity to know more about what they do and why they should support them. Another key feature would be  a space that would advertise some of the specials of the week and a section eventually for online ordering. Lastly, the user could find ways to contact and follow The Fresh Market.
 
-## User Stories
+<p>&nbsp;</p>
 
-### First time user of the site goals
+## 3. User Stories
+
+
+### 3.1 First time user of the site goals
 
 - As a first time user, I want to learn a bit more about the business and what they do?
 
@@ -38,7 +41,7 @@ The aim of this project is to create a fully responsive and aesthetically pleasi
 - As a first time user, I want to be able to check the site on mobile as well as desktop. 
 
 
-### Returning user of the site’s goals
+### 3.2 Returning user of the site’s goals
 
 - As a returning user, I want to learn more about delivery options this week.
 
@@ -47,7 +50,7 @@ The aim of this project is to create a fully responsive and aesthetically pleasi
 - As a returning user, I would like to be able to find a phone number to call the shop to ask them to hold something for me. 
 
 
-### A frequent user of the site’s goals
+### 3.3 A frequent user of the site’s goals
 
 - As a frequent user, I want to be able to sign up to the mailing list.
 
@@ -55,27 +58,29 @@ The aim of this project is to create a fully responsive and aesthetically pleasi
 
 - As a frequent user, I want to be able to check the latest information about the shop and Covid
 
+<p>&nbsp;</p>
 
-## Personas
+## 4. Personas
 
 Based on the user stories two personas were developed. Personas will give a face and personality to help in the design process. They are useful to refer back to keep a potential user front and centre in all development decisions.
 
-### Persona 1
+### 4.1 Persona 1
 
-#### Anna
+## Anna
 
 ![Persona](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/personas/Anna%20-%20Persona%201%20%E2%80%93%201.png?raw=true)
 
-### Persona 2
+### 4.2 Persona 2
 
-#### Carl
+## Carl
 
 ![Persona](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/personas/Carl%20-%20Persona%201.png?raw=true)
 
+<p>&nbsp;</p>
 
-## UX
+## 5. User Experience (UX)
 
-### Strategy 
+### 5.1 Strategy 
 
 
 The aim of this project is to raise awareness of the stakeholders business with a fully responsive and visually appealing site. The site should be easy to use and build on existing mental models of mobile first design. The business will have a wide demographic so the key information should be easy to find and accessibility will be very important. 
@@ -96,7 +101,7 @@ Meeting the user’s needs and goals
 
 Following current industry best practices the site will be a one page scrolling site on desktop, with the navigation bar collapsing into a hamburger menu with a pop up modal on mobile and tablet. 
 
-### Scope
+### 5.2 Scope
 
 Using Lean UX a minimum viable product (MVP) was developed in order to learn quickly about what will work on the site. Developing the site in this way will allow time for testing and give ample opportunity to fix any bugs or features that may not be working. Using a Lean UX methodology will enable us to see if we 
 
@@ -108,7 +113,7 @@ Using Lean UX a minimum viable product (MVP) was developed in order to learn qui
 - That the site is built using correct HTML semantics and follows industry standards for accessibility. 
 
 
-### Structure
+### 5.3 Structure
 
 The website will operate as a scrolling one page site on desktop, with the navigation changing to a hamburger menu on mobile. The website will be broken into four sections that will help first time, frequent and returning users get answers to their questions. The navigation will be sticky and be viewable at each section of the site.
 
@@ -124,11 +129,11 @@ The website will operate as a scrolling one page site on desktop, with the navig
 - Contact Us section
     - This section will help the user send a quick question or query to the business without leaving the site. This will present a good opportunity for the user to feel the have a direct line of communication with the business.
 
-#### Information Architecture for the site
+#### 5.3.1 Information Architecture for the site
 
 ![Sitemap](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/Information%20Arch..png?raw=true)
 
-### Skeleton
+### 5.4 Skeleton
 
 The wireframes were designed and built in [Balsamiq](https://balsamiq.com/) . They can be viewed at the following links
 
@@ -142,11 +147,12 @@ All devices side by side
 
 - [Wireframes](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/wireframes/Wireframes%20for%20all%20devices.pdf)
 
+### Design change to the wireframes
+- After talking to the stakeholder and business owner it was decided to change the Products section to information on deliverys. The reasoning for this is it is something that would help the business immediately. In order for having a products section the stakeholder worried it may not have value and would be time consuming to photograph things. The delivery section could help customers who are worried about coming to the store because of covid.
 
+### 5.5 Surface
 
-### Surface
-
-#### Colour
+#### 5.5.1 Colour
 
 As the website is for a local and healty grocery store the colours and style should reflect that in the design. In order to get an idea of some colours I took a look at some photos from the businesses instagram.
 
@@ -162,16 +168,17 @@ Accessibility is of fundamental consideration when designing a site. It is impor
 
 ![Colour_Used](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/assets/docs/accesiblecolor.png?raw=true)
 
-#### Typography
+#### 5.5.2 Typography
 
 - For the headings on the site I have chosen [Raleway by Google Fonts](https://fonts.google.com/specimen/Raleway). I decided to use this font as a wide demographic would be using this site. Raleway is clear and fits well with the brand aesthetic. It also is likely that a user may not have trouble with this font as most devices will support google fonts.
 
 - For the body text on the site I used [Roboto by Christian Robertson](https://fonts.google.com/specimen/Roboto). Roboto is described as a font that allows for a more natural reading rhythm, which is will help the user navigate the content. Roboto is seen very often on websites and this in term will aid the user by building on existing mental models.
 
+<p>&nbsp;</p>
 
-## Features 
+## 6. Features 
 
-### Existing Features
+### 6.1 Existing Features
 - Website designed with HTML5, CSS3 and Bootstrap.
 - A modern single page site that scrolls to each section.
 - A fixed navigation bar that will keep the user informed where they are on the page and will also user hover fuctions to prompts possible page destination.
@@ -180,18 +187,22 @@ Accessibility is of fundamental consideration when designing a site. It is impor
 - Quick links in the footer to all available social media for the Fresh Market
 - Additonal opportunity to join mailing list in the footer which will improve the Fresh Markets reach with new and existing customers.
 
-### Future Features 
+### 6.2 Future Features 
 - Gallery that displays and updates when The Fresh Market post on instagram.
 - Testimonals or customer reviews. Possibly display the google reviews and updates as more become available.
+- A products section and the ability to order directly from the site.
+- A working contact form when I learn more about Javascript and the backend requirements for this. 
 
-## Technologies used
+<p>&nbsp;</p>
 
-### Languages
+## 7. Technologies used
+
+### 7.1 Languages
 - [HTML](https://en.wikipedia.org/wiki/HTML5) 
 
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 
-### Frameworks, Libraries, Programs and Sites.
+### 7.2 Frameworks, Libraries, Programs and Sites.
 
 - [Bootstrap](https://getbootstrap.com/) - Bootstrap was used to take advantage of the grid, ease of use for responsive layout and components like navbar, cards, existing CDN CI template and footer.
 
@@ -215,23 +226,23 @@ Accessibility is of fundamental consideration when designing a site. It is impor
 
 - [Font Awesome](https://fontawesome.com/) - Font awesome provided the icons and code for the icons used in the about us section, deliveries and the footer.
 
-### Workspace, Repositories and Version Control
+### 7.3 Workspace, Repositories and Version Control
 
 - [Github](www.github.com) - This project and all its files are hosted on github and the live website is hosted by using Git Hub Pages.
 
 - [Gitpod](www.gitpod.io) - Gitpod is recommended by the coding institute and was used as the IDE. It also enabled me to add, commit and push to GitHub and keep track of version control. 
 
+<p>&nbsp;</p>
 
-
-
-## Testing 
+## 8. Testing 
 
 - Testing results can be read in the [testing.md](https://github.com/Ciaranwbrady/MS1_Fresh_Market/blob/master/TESTING.md) file
 
+<p>&nbsp;</p>
 
-## Deployment 
+## 9. Deployment 
 
-### Publishing
+### 9.1 Publishing
 
 The Fresh Market site was published using [GitHubPages](https://pages.github.com/). In order to do this I took the following steps
 
@@ -246,7 +257,7 @@ The Fresh Market site was published using [GitHubPages](https://pages.github.com
 
 6. This can sometimes take a few minutes, so some patience may be required before being able to view your page. 
 
-### Cloning Project 
+### 9.2 Cloning Project 
 
 1. Open the Github Repo for this project [Ciaranwbrady/MS1_Fresh_Market](https://github.com/Ciaranwbrady/MS1_Fresh_Market)
 2. By clicking on the code section you will be presented with a drop down as demonstrated in the photo below
@@ -256,16 +267,18 @@ The Fresh Market site was published using [GitHubPages](https://pages.github.com
 4. With your terminal open or chosen IDE type 'git clone' in the CLI then paste the copied URL.
 5. If you would prefer you can also use the 'Open with Github Desktop' option and follow the steps provided.
 
-## Credits 
+<p>&nbsp;</p>
 
-### Code 
+## 10. Credits 
+
+### 10.1 Code 
 
 - The [bootstrap documentation](https://getbootstrap.com/docs/4.0/getting-started/introduction/) was very important in helping me understand responsiveness and the grid.
 - All individual instances of Code Snippets or help from [Stack Overflow](http://stackoverflow.com/) are credited and commented within the HTML and CSS.
 - Another source of inspiration and help was [W3schools](https://www.w3schools.com/)
-- Finally, I learnt a lot from the Code Institute circulam and questions asked in the various slack channels. 
+- Finally, I learnt a lot from the Code Institute curriculum and questions asked in the various slack channels. 
 
-### Images and websites
+### 10.2 Images and websites
 
 - The hero image was used courtesy of [Jan_Canty](https://unsplash.com/photos/--XaLE4wF6s) on [Unsplash](www.unsplash.com).
 
@@ -279,12 +292,14 @@ The Fresh Market site was published using [GitHubPages](https://pages.github.com
     - [Handmade Soap](https://thehandmadesoapcompany.ie/)
     - [NY Times Cooking](https://cooking.nytimes.com/)
 
-### Thanks 
+### 10.3 Thanks 
 - Thanks to my mentor Precious Ijege for his help and guidance during the process.
 - All of the people who helped me with questions and problems on the Code Institute Slack Channel.
 - The Code Institute Staff and Tutors.
 
-## Support or Contact 
+<p>&nbsp;</p>
+
+## 11. Support or Contact 
 
 Email: Ciaranwbrady@gmail.com
 
