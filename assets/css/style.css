@@ -75,7 +75,7 @@ h2 {
     background-size: cover;
     background-attachment: fixed;
     width: 100%;
-    min-height: 70vh;
+    height: 70vh;
 }
 
 #hero-image .overlay {
@@ -83,12 +83,12 @@ h2 {
     top: 0;
     left: 0;
     width: 100%;
-    min-height: 70vh;
+    height: 70vh;
     background-color: rgba(0, 0, 0, 0.5);
 }
 
 #hero-image .hero-text {
-    padding-top: 10rem;
+    padding-top: 7rem;
 }
 
 .card-colour {
@@ -201,7 +201,7 @@ h2 {
 #footer-1 {
     background-color: #63a577;
     width: 100%;
-    min-height: 40vh;
+    min-height: 20vh;
 }
 
 .foot-icon {
@@ -227,13 +227,13 @@ h2 {
 /* iPhone 5 screen */
 @media screen and (max-width: 320px) {
     #hero-image {
-        min-height: 40vh;
+        height: 50vh;
     }
     #hero-image .overlay {
-        min-height: 40vh;
+        height: 50vh;
     }
     #hero-image .hero-text {
-        padding-top: 6rem;
+        padding-top: 7rem;
     }
     h1 {
         font-size: 2rem;
@@ -253,7 +253,7 @@ h2 {
         min-height: 70vh;
     }
     #hero-image .hero-text {
-        padding-top: 5rem;
+        padding-top: 6rem;
     }
 }
 
@@ -266,7 +266,7 @@ h2 {
         min-height: 40vh;
     }
     #hero-image .hero-text {
-        padding-top: 7rem;
+        padding-top: 8rem;
     }
 
     h1 {
@@ -287,7 +287,7 @@ h2 {
         min-height: 45vh;
     }
     #hero-image .hero-text {
-        padding-top: 6rem;
+        padding-top: 7rem;
     }
 }
 
@@ -323,5 +323,4 @@ h2 {
         font-size: 1rem;
     }
 }
-
 
