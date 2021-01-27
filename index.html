@@ -15,11 +15,11 @@
 
 <!-- Nav Bar -->
         <!-- CREDIT - Additional help understanding Navbar from Brad Traversy https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/ and bootstrap documentation -->
-    
-        <nav class="navbar navbar-expand-md navbar-light fixed-top" id="main-nav">
+        <!-- CREDIT advice about closing navbar https://stackoverflow.com/questions/16680543/hide-twitter-bootstrap-nav-collapse-on-click/23926645 -->
+        <nav class="navbar navbar-expand-md navbar-light fixed-top" id="main-nav" data-toggle="collapse" data-target=".navbar-collapse.show">
         <div class="container">
             <a href="index.html" class="navbar-brand" aria-label="Nav logo">Fresh Market</a>
-            <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarcollapse">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarcollapse">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarcollapse">
