@@ -233,9 +233,9 @@ Accessibility is of fundamental consideration when designing a site. It is impor
 
 ## 5.3 Workspace, Repositories and Version Control
 
-- [Github](www.github.com) - This project and all its files are hosted on github and the live website is hosted by using Git Hub Pages.
+- [Github](https://www.github.com) - This project and all its files are hosted on github and the live website is hosted by using Git Hub Pages.
 
-- [Gitpod](www.gitpod.io) - Gitpod is recommended by the coding institute and was used as the IDE. It also enabled me to add, commit and push to GitHub and keep track of version control. 
+- [Gitpod](https://www.gitpod.io) - Gitpod is recommended by the coding institute and was used as the IDE. It also enabled me to add, commit and push to GitHub and keep track of version control. 
 
 <p>&nbsp;</p>
 
