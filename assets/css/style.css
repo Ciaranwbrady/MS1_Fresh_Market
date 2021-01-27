@@ -224,31 +224,36 @@ h2 {
 
 /* ADVICE - Help on understanding media queries https://www.w3schools.com/css/css3_mediaqueries_ex.asp */
 
-/* iPad and iPad pro */
-
-@media screen and (min-width: 768px) and (max-width: 992px) {
+/* iPhone 5 screen */
+@media screen and (max-width: 320px) {
     #hero-image {
         min-height: 40vh;
     }
     #hero-image .overlay {
         min-height: 40vh;
-    }
-    #hero-image .hero-text {
-        padding-top: 7rem;
-    }
-}
-
-/* Large breakpoint */
-
-@media screen and (max-width: 425px) {
-    #hero-image {
-        min-height: 45vh;
-    }
-    #hero-image .overlay {
-        min-height: 45vh;
     }
     #hero-image .hero-text {
         padding-top: 6rem;
+    }
+    h1 {
+        font-size: 2rem;
+    }
+    h2 {
+        font-size: 1rem;
+    }
+}
+
+
+/* iPhone X Landscape view */
+@media screen and (max-height: 375px) {
+    #hero-image {
+        min-height: 70vh;
+    }
+    #hero-image .overlay {
+        min-height: 70vh;
+    }
+    #hero-image .hero-text {
+        padding-top: 5rem;
     }
 }
 
@@ -272,35 +277,31 @@ h2 {
     }
 }
 
-/* iPhone 5 screen */
-@media screen and (max-width: 320px) {
+/* Large breakpoint */
+
+@media screen and (max-width: 425px) {
     #hero-image {
-        min-height: 40vh;
+        min-height: 45vh;
     }
     #hero-image .overlay {
-        min-height: 40vh;
+        min-height: 45vh;
     }
     #hero-image .hero-text {
         padding-top: 6rem;
     }
-    h1 {
-        font-size: 2rem;
-    }
-    h2 {
-        font-size: 1rem;
-    }
 }
 
-/* iPhone X Landscape view */
-@media screen and (max-height: 375px) {
+/* iPad and iPad pro */
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
     #hero-image {
-        min-height: 70vh;
+        min-height: 40vh;
     }
     #hero-image .overlay {
-        min-height: 70vh;
+        min-height: 40vh;
     }
     #hero-image .hero-text {
-        padding-top: 5rem;
+        padding-top: 7rem;
     }
 }
 
@@ -322,3 +323,5 @@ h2 {
         font-size: 1rem;
     }
 }
+
+
